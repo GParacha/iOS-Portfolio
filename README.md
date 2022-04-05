@@ -6,8 +6,6 @@ OhTheHorror: In Development, currently making the assets for said game. I have f
 
 ![backgroundLightClouds (1)](https://user-images.githubusercontent.com/98774992/161837598-30cd039f-9c59-430a-a4f2-1224f0c2f7fe.gif)
 
-![backgroundLightClouds-2](https://user-images.githubusercontent.com/98774992/161837466-ed3b56e0-fbaf-4a94-9f6d-cd1ffe07efd3.png)
-
 ![chaliceUpgrade](https://user-images.githubusercontent.com/98774992/161330529-ce5b5100-92f2-4982-bcdb-278f9e62b266.png)
 
 ![icon_83 5@2x](https://user-images.githubusercontent.com/98774992/161330564-fb88b3af-2d73-4615-bd8d-99c501e2889a.png)
