@@ -4,6 +4,8 @@ Hey I am Gaurav Paracha, and I have done work in many Computer Science classes. 
 OhTheHorror: In Development, currently making the assets for said game. I have focused on making atmospheric pixel art and certain backgrounds. I have worked with my team to create an atmosphere of fear.
 [Feel the Horror](https://github.com/EvanRista/OhTheHorror.git)
 
+![backgroundLightClouds (1)](https://user-images.githubusercontent.com/98774992/161837598-30cd039f-9c59-430a-a4f2-1224f0c2f7fe.gif)
+
 ![backgroundLightClouds-2](https://user-images.githubusercontent.com/98774992/161837466-ed3b56e0-fbaf-4a94-9f6d-cd1ffe07efd3.png)
 
 ![chaliceUpgrade](https://user-images.githubusercontent.com/98774992/161330529-ce5b5100-92f2-4982-bcdb-278f9e62b266.png)
