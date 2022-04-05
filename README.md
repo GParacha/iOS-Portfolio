@@ -10,3 +10,9 @@ Hey I am Gaurav Paracha, and I have done work in many Computer Science classes. 
 ---------------------------------------------------------------------------------------------------------
 **FencinApp:** 
 - Finished, created assets and app for Android. A one on one strategy game with increasingly more difficult bosses, each with their own AI. I made characters of different colors, assets and even motions. The app taught me how to design enemy ai with a certain amount of personality and how to show movement. It was often a challenge for simple things I hadn't thought about beforehand. Things like buttons or even how to program a healthbar. The app has been lost however.
+
+---------------------------------------------------------------------------------------------------------
+**Personal Projects:**
+- While I had free time, I had worked on a few art projects to get more experience with pixel art. By no means have they been the greatest things to touch the earth, but they can be pretty close. I have learnt a strong eye for rendering, making each environment pop like they were real places. Alongside lighting that was my main issue. I learnt a process that worked for me and got me to have fun while doing it.
+
+![Wild Gunman](https://user-images.githubusercontent.com/98774992/161839264-c1a71513-b7f3-4a21-924e-bc6010087b3d.png)
