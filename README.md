@@ -1,5 +1,5 @@
 # iOS-Portfolio
-Hey I am Gaurav Paracha, and I have done work in many Computer Science classes. I have focused on creating pixel art for said projects and becoming a better group member. 
+Hey I am Gaurav Paracha, and I have done work in many Computer Science classes. I have focused on creating pixel art for said projects and becoming a better group member. I have pushed myself through AP CSP and iOS App Development and learned a lot along the way.
 ---------------------------------------------------------------------------------------------------------
 **OhTheHorror:**
 - In Development, currently making the assets for said game. I have focused on making atmospheric pixel art and certain backgrounds. I have worked with my team to create an atmosphere of fear. This app taught me how to work with a team of more than just myself. I worked with amazing people who always pushed me to go even further than what I thought I was capable of. It also taught me how to work with clients that want very specific things.
