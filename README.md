@@ -1,7 +1,7 @@
 # iOS-Portfolio
 Hey I am Gaurav Paracha, and I have done work in many Computer Science classes. I have focused on creating pixel art for said projects and becoming a better group member. 
 ---------------------------------------------------------------------------------------------------------
-OhTheHorror: In Development, currently making the assets for said game. I have focused on making atmospheric pixel art and certain backgrounds. I have worked with my team to create an atmospheric and unlike anything seen be others.
+OhTheHorror: In Development, currently making the assets for said game. I have focused on making atmospheric pixel art and certain backgrounds. I have worked with my team to create an atmosphere of fear.
 [Feel the Horror](https://github.com/EvanRista/OhTheHorror.git)
 
 ![backgroundLightClouds](https://user-images.githubusercontent.com/98774992/161330508-bafea040-1a48-4d50-88b1-f104f7e7aa1c.gif)
