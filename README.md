@@ -11,8 +11,7 @@ Hey I am Gaurav Paracha, and I have done work in many Computer Science classes. 
 **CrusaderDungeon:**
 - In production, currently designing characters. I focused on making memorable character designs that would be iconic to the project. I learnt how to support my team member since this was a two man project. I especially learnt how to talk to outside sources to get help in areas I didn't know about. We were able to work through many setbacks to make a functional product that could at some point be on the appstore. 
 
-![Icon](https://user-images.githubusercontent.com/98774992/171931327-40965c37-5646-4831-a780-074c2f438bc7.png)
-
+![sticker2](https://user-images.githubusercontent.com/98774992/171931514-174517b4-e990-4293-8b76-cda8b53517bb.png)
 ---------------------------------------------------------------------------------------------------------
 **FencinApp:** 
 - Finished, created assets and app for Android. A one on one strategy game with increasingly more difficult bosses, each with their own AI. I made characters of different colors, assets and even motions. The app taught me how to design enemy ai with a certain amount of personality and how to show movement. It was often a challenge for simple things I hadn't thought about beforehand. Things like buttons or even how to program a healthbar. The app has been lost however.
