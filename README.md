@@ -11,6 +11,8 @@ Hey I am Gaurav Paracha, and I have done work in many Computer Science classes. 
 **CrusaderDungeon:**
 - In production, currently designing characters. I focused on making memorable character designs that would be iconic to the project. I learnt how to support my team member since this was a two man project. I especially learnt how to talk to outside sources to get help in areas I didn't know about. We were able to work through many setbacks to make a functional product that could at some point be on the appstore. 
 
+[Delve into the dungeon](https://github.com/EvanRista/Crusader-Dungeon)
+
 ![sticker2](https://user-images.githubusercontent.com/98774992/171931514-174517b4-e990-4293-8b76-cda8b53517bb.png)
 ---------------------------------------------------------------------------------------------------------
 **FencinApp:** 
